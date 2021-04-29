@@ -27,6 +27,7 @@ body {
 
 .form input {
     font-size: 30px;
+    outline: none;
 }
 
 .form input:focus {
