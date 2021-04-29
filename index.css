@@ -29,6 +29,10 @@ body {
     font-size: 30px;
 }
 
+.form input:focus {
+    outline: none;
+}
+
 .showing {
     display: flex;
     justify-content: center;
